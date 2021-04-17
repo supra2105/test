@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="107px" viewBox="0 0 107 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>web</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="web" fill="#fff">
+            <g transform="translate(3.000000, 12.000000)">
+                <path d="M0,83 L102,83 L102,0 L0,0 L0,83 Z M3.01477833,79.9818182 L98.9852217,79.9818182 L98.9852217,3.01818182 L3.01477833,3.01818182 L3.01477833,79.9818182 Z" id="Fill-1"></path>
+                <path d="M0,13 L102,13 L102,0 L0,0 L0,13 Z M3.01477833,10.0341797 L98.9852217,10.0341797 L98.9852217,3.12 L3.01477833,3.12 L3.01477833,10.0341797 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="5 8 8.09 8 8.09 5 5 5"></polygon>
+                <polygon id="Fill-4" points="10 8 13.092 8 13.092 5 10 5"></polygon>
+                <polygon id="Fill-5" points="15 8 18.092 8 18.092 5 15 5"></polygon>
+                <polygon id="Fill-7" points="7 74 33 74 33 71 7 71"></polygon>
+                <polygon id="Fill-6" points="7 68 33 68 33 65 7 65"></polygon>
+                <path d="M9.9162149,58.12 L30.0837851,58.12 L30.0837851,51.88 L9.9162149,51.88 L9.9162149,58.12 Z M7,61 L33,61 L33,49 L7,49 L7,61 Z" id="Fill-8"></path>
+                <polygon id="Fill-7-Copy" points="38 74 64 74 64 71 38 71"></polygon>
+                <polygon id="Fill-6-Copy" points="38 68 64 68 64 65 38 65"></polygon>
+                <path d="M40.9162149,58.12 L61.0837851,58.12 L61.0837851,51.88 L40.9162149,51.88 L40.9162149,58.12 Z M38,61 L64,61 L64,49 L38,49 L38,61 Z" id="Fill-8-Copy"></path>
+                <polygon id="Fill-7-Copy-2" points="69 74 95 74 95 71 69 71"></polygon>
+                <polygon id="Fill-6-Copy-2" points="69 68 95 68 95 65 69 65"></polygon>
+                <path d="M71.9162149,58.12 L92.0837851,58.12 L92.0837851,51.88 L71.9162149,51.88 L71.9162149,58.12 Z M69,61 L95,61 L95,49 L69,49 L69,61 Z" id="Fill-8-Copy-2"></path>
+                <path d="M0,45 L102,45 L102,24 L0,24 L0,45 Z M3.01477833,42.126346 L98.9852217,42.126346 L98.9852217,26.8746122 L3.01477833,26.8746122 L3.01477833,42.126346 Z" id="Fill-15"></path>
+                <polygon id="Fill-16" points="7 20 33 20 33 17 7 17"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

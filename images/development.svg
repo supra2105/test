@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107px" height="107px" viewBox="0 0 107 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>prototyping</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prototyping" fill="#fff">
+            <g transform="translate(3.000000, 12.000000)">
+                <path d="M0,83 L102,83 L102,0 L0,0 L0,83 Z M3.01477833,79.9818182 L98.9852217,79.9818182 L98.9852217,3.01818182 L3.01477833,3.01818182 L3.01477833,79.9818182 Z" id="Fill-1"></path>
+                <path d="M0,13 L102,13 L102,0 L0,0 L0,13 Z M3.01477833,10.0341797 L98.9852217,10.0341797 L98.9852217,3.12 L3.01477833,3.12 L3.01477833,10.0341797 Z" id="Fill-2"></path>
+                <polygon id="Fill-3" points="5 8 8.09 8 8.09 5 5 5"></polygon>
+                <polygon id="Fill-4" points="10 8 13.092 8 13.092 5 10 5"></polygon>
+                <polygon id="Fill-5" points="15 8 18.092 8 18.092 5 15 5"></polygon>
+                <polygon id="Fill-6" points="36.7969 56.6484 22.9999 45.7104 36.7969 34.7714 38.6599 37.1234 27.8279 45.7104 38.6599 54.2964"></polygon>
+                <polygon id="Fill-7" points="59.6201 56.6484 57.7571 54.2964 68.5901 45.7104 57.7571 37.1264 59.6201 34.7744 73.4181 45.7104"></polygon>
+                <polygon id="Fill-8" points="45.6064 61.376 42.7254 60.538 51.6044 30.047 54.4854 30.885"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
