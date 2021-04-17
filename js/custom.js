@@ -158,7 +158,7 @@
           "slide01",
           "slide02",
           "slide03",
-          "slide05",
+          // "slide05",
           "slide06",
           "slide07",
         ],
