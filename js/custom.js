@@ -111,7 +111,7 @@
         nav: false,
         dots: true,
         items: 2,
-        autoplay: true,
+        autoplay: false,
         smartSpeed: 700,
         autoplayTimeout: 4000,
         responsive: {
@@ -130,27 +130,27 @@
         },
       });
     }
-    if ($(".testimonials-slider").length) {
-      $(".testimonials-slider").owlCarousel({
-        loop: true,
-        nav: false,
-        dots: true,
-        items: 1,
-        margin: 30,
-        autoplay: true,
-        smartSpeed: 700,
-        autoplayTimeout: 6000,
-        responsive: {
-          0: {
-            items: 1,
-            margin: 0,
-          },
-          768: {
-            items: 1,
-          },
-        },
-      });
-    }
+    // if ($(".testimonials-slider").length) {
+    //   $(".testimonials-slider").owlCarousel({
+    //     loop: true,
+    //     nav: false,
+    //     dots: true,
+    //     items: 1,
+    //     margin: 30,
+    //     autoplay: true,
+    //     smartSpeed: 700,
+    //     autoplayTimeout: 6000,
+    //     responsive: {
+    //       0: {
+    //         items: 1,
+    //         margin: 0,
+    //       },
+    //       768: {
+    //         items: 1,
+    //       },
+    //     },
+    //   });
+    // }
     if ($(".fullpage-default").length) {
       var myFullpage = new fullpage(".fullpage-default", {
         licenseKey: " C7F41B00-5E824594-9A5EFB99-B556A3D5",
