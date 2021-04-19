@@ -124,7 +124,7 @@
             margin: 20,
           },
           992: {
-            items: 3,
+            items: 2,
             margin: 30,
           },
         },
